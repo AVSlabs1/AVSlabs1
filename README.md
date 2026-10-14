@@ -24,6 +24,10 @@ Software Engineer специализирующийся на backend-разраб
 * **DevOps & Инфраструктура:** Docker, Docker Compose, Linux, Git, APScheduler
 
 ---
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AVSlabs1&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AVSlabs1&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</div>
 
 ### Проекты в портфолио
 
