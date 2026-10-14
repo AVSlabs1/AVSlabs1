@@ -45,3 +45,5 @@ Software Engineer специализирующийся на backend-разраб
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVSlabs1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
+
+---
